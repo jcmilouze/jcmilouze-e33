@@ -128,7 +128,7 @@ const ResultsPage: React.FC = () => {
                                 <ul className="list-disc list-inside text-slate-600">
                                     <li>Taux de transformation devis → contrats: <strong>45%</strong></li>
                                     <li>Part du CA réalisée avec les clients existants: <strong>85%</strong></li>
-                                    <li>Taux de relance des clients inactifs (inactifs depuis > 1 an): <strong>30%</strong> (Objectif: 75%)</li>
+                                    <li>Taux de relance des clients inactifs (inactifs depuis &gt; 1 an): <strong>30%</strong> (Objectif: 75%)</li>
                                 </ul>
                             </div>
                         </div>
